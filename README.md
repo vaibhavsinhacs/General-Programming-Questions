@@ -1,4 +1,4 @@
-## This repository contains some basic progras which will be helpful for beginners
+## This repository contains some basic programs which will be helpful for beginners
 
 1. Program to find the GCD of n numbers.
 
