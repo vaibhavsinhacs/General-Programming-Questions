@@ -1,17 +1,15 @@
-# This repository contains CAAS Coding Assignments 2020
+## This repository contains some basic progras which will be helpful for beginners
 
-## Assignment 1
+1. Program to find the GCD of n numbers.
 
-Q.1. Program to find the GCD of n numbers.
+2. Program to print nth Fibonacci number.
 
-Q.2. Program to print nth Fibonacci number.
+3. Program to print nth prime number.
 
-Q.3. Program to print nth prime number.
+4. Program to find the sum of the prime factors of a number.
 
-Q.4. Program to find the sum of the prime factors of a number.
+5. Program to print first n non-Fibonacci numbers.
 
-Q.5. Program to print first n non-Fibonacci numbers.
+6. Program to convert a number from decimal to binary.
 
-Q.6. Program to convert a number from decimal to binary.
-
-Q.7. Program to check whether a number is a Harshad number or not.
+7. Program to check whether a number is a Harshad number or not.
